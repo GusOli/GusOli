@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gust_ooliveira
-- 👀 I’m interested in schedule
+- 👀 I’m interested in to study
 - 🌱 I’m currently learning Html and CSS
 - 💞️ I’m looking to collaborate on increasingly learn
 - 📫 How to reach me my instagram is @gust_ooliveira or my email, gujotoqui@gmail.com
