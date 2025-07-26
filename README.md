@@ -11,9 +11,9 @@
 ## 👨‍💻 Sobre mim
 
 - 🧠 Sempre aprendendo algo novo (últimos cursos: MySQL, SCRUM, LGPD, Flutter e Firebase)
-- 📚 Estudante de Engenharia de Software
+- 📚 Formado em análise e desenvolvimento de sistemas
 - 🧩 Estudando Banco de Dados, Estrutura de Dados, SEO e Desenvolvimento Web
-- 🧪 Experiência com HTML, CSS, JS, EJS, React, Node.js, Firebase, MySQL, Docker, Spring Boot e muito mais
+- 🧪 Experiência com HTML, CSS, JS, React, Node.js, Firebase, MySQL, Docker, Spring Boot e muito mais
 - 🧠 Analista de SEO na maior agência da América Latina, atuando com front-end em CRMs como Shopify, WordPress, VTEX, Tray...
 - 📌 Projetos pessoais focados em soluções web, automações e presentes digitais interativos (inspirado no Heartzzu)
 - 🔥 Buscando sempre aplicar teoria na prática com projetos úteis e reais
@@ -26,16 +26,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GusOli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusOli&layout=compact&langs_count=8&theme=radical"/>
 </a>
-
----
-
-## 🟣 Pacman das Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GusOli/GusOli/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GusOli/GusOli/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/GusOli/GusOli/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
@@ -55,25 +45,28 @@
 
 ✨ *Landing pages responsivas*  
 🧩 *CRUDs com autenticação usando Node.js e Spring Boot*  
-🎁 *Sistema de presentes digitais com QR Code, áudio, animações e mensagens interativas*  
-📦 *Sistemas com Firebase + Electron Desktop para controle de presença e geração de PDF automático*
+🎁 *Sistema de presentes digitais com QR Code, áudio, animações e mensagens interativas*[em construção]]
+📦 *Sistemas com Firebase + Electron Desktop para controle de presença e geração de PDF automático*[em construção]]
 
 ---
 
 ## 🌐 Vamos nos conectar?
 
 <p align="left">
-  <a href="mailto:gustavooliveira.seo@gmail.com" title="Gmail">
+  <a href="gujotoqui@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/gusoliveiraseo/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/gustavo-oliveira-52392127b" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/seu_usuario_aqui/" title="Instagram">
+  <a href="https://www.instagram.com/gusta_dev" title="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@seucanal" title="YouTube">
+  <a href="https://www.youtube.com/@sapex3267" title="YouTube">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@gusta_dev" title="TikTok">
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/>
   </a>
 </p>
 
