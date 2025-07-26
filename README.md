@@ -87,7 +87,3 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
 
-![snake gif](https://raw.githubusercontent.com/GusOli/GusOli/output/github-contribution-grid-snake.svg)
-
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GusOli&repo=GusOli&theme=react)](https://github.com/GusOli/GusOli)
