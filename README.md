@@ -90,3 +90,4 @@
 ![snake gif](https://github.com/SEU_USUARIO/GusOli/blob/output/github-contribution-grid-snake.svg)
 
 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GusOli&repo=GusOli&theme=react)](https://github.com/GusOli/GusOli)
